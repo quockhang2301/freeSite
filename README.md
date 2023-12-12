@@ -1,2 +1,2 @@
 # freeSite
- Freesite
+ Freesite.
